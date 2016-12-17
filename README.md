@@ -1,4 +1,4 @@
 # ASPNET-MVC5
 MVC5 practicing code
 
-This is just a test.
+This is a practicing codes and projects.
